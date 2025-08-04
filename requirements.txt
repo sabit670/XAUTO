@@ -1,0 +1,5 @@
+requests
+faker
+fake_useragent
+bs4
+rich
